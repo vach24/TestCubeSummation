@@ -1,0 +1,6 @@
+D:\TestCubeSummation\TestCubeSummation.Clases\bin\Debug\TestCubeSummation.Clases.dll
+D:\TestCubeSummation\TestCubeSummation.Clases\bin\Debug\TestCubeSummation.Clases.pdb
+D:\TestCubeSummation\TestCubeSummation.Clases\obj\Debug\TestCubeSummation.Clases.csproj.CoreCompileInputs.cache
+D:\TestCubeSummation\TestCubeSummation.Clases\obj\Debug\TestCubeSummation.Clases.dll
+D:\TestCubeSummation\TestCubeSummation.Clases\obj\Debug\TestCubeSummation.Clases.pdb
+D:\TestCubeSummation\TestCubeSummation.Clases\obj\Debug\TestCubeSummation.Clases.csprojResolveAssemblyReference.cache

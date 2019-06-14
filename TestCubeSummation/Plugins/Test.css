@@ -1,0 +1,121 @@
+﻿.input-group span.input-group-addon {
+    padding: .2rem .6rem !important;
+    height: auto !important;
+}
+
+    .input-group span.input-group-addon i {
+        font-size: 1.2rem;
+        padding-top: 5px;
+    }
+
+form .input-group span.input-group-addon.addon-primary {
+    background-color: #e4e8f0;
+    border-radius: 4px 0px 0px 4px;
+}
+
+.cssObjetoOculto {
+    display: none;
+}
+
+.contenedor {
+    width: 90%;
+    margin: 0px auto;
+    top: 50px;
+}
+
+fieldset {
+    padding: 3px;
+}
+
+    fieldset legend {
+        background-color: white;
+    }
+
+.cssObjetoCenter {
+    margin: 0px auto;
+}
+
+.panel-default > .panel-heading {
+    font-weight: bold;
+    background: #FAFAFA;
+    background-color: #007bff;
+    border-color: #007bff;
+    color: white;
+}
+
+.panel-heading {
+    cursor: pointer;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.panel {
+    margin-bottom: 5px;
+}
+
+.panel-title {
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: inherit;
+}
+
+.panel-heading span {
+    margin-top: -18px;
+    font-size: 15px;
+}
+
+table {
+    width: 100%;
+}
+
+.table thead {
+    background-color: rgba(54, 7, 255, 0.15);
+    border-radius: 4px;
+}
+
+legend {
+    border-bottom: 1px solid #007bff3d;
+}
+
+.widget-body {
+    padding: 5px 0rem;
+}
+
+.form-group {
+    margin-bottom: 6px;
+}
+
+.btnProcesar {
+    float: right;
+    top: -44px;
+}
+
+.header {
+    position: fixed;
+    background-color: white;
+    z-index: 10000;
+    width: 100%;
+    padding: 10px;
+    height: 50px;
+}
+
+hr {
+    margin-top: .1rem;
+    margin-bottom: .1rem;
+}
+
+textarea {
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #2c304d;
+    border: 1px solid #b7b0b0;
+    border-radius: 4px;
+    width: 100%;
+    padding: 0;
+    resize: none;
+}
